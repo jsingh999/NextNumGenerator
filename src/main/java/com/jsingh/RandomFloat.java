@@ -1,2 +1,5 @@
-package com.jsingh;public interface RandomFloat {
+package com.jsingh;
+
+public interface RandomFloat {
+    float  getRandomFloat();
 }
